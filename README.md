@@ -1,2 +1,2 @@
 # Neuro-Linguistic-Transcription-Text-Generation-from-EEG-Patterns
-Masters Dissertation
+UoM - University of Malta - Masters Dissertation
